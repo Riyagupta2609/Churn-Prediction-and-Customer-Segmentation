@@ -257,28 +257,6 @@ The application predicts:
 
 ---
 
-#  How to Run
-
-Clone the repository
-
-```bash
-git clone <repository-link>
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-streamlit run app/app.py
-```
-
----
-
 #  Future Improvements
 
 - SHAP Explainable AI
