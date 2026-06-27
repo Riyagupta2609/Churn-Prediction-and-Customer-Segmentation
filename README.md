@@ -53,7 +53,6 @@ Customer-Churn-Prediction-System
 ├── dataset
 │   └── Telco_customer_churn.xlsx
 │
-├── requirements.txt
 │
 └── README.md
 ```
